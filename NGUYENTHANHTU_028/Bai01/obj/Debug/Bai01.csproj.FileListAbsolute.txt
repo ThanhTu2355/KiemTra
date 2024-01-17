@@ -1,0 +1,7 @@
+D:\DATA\KiemTra\NGUYENTHANHTU_028\Bai01\bin\Debug\Bai01.exe.config
+D:\DATA\KiemTra\NGUYENTHANHTU_028\Bai01\bin\Debug\Bai01.exe
+D:\DATA\KiemTra\NGUYENTHANHTU_028\Bai01\bin\Debug\Bai01.pdb
+D:\DATA\KiemTra\NGUYENTHANHTU_028\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+D:\DATA\KiemTra\NGUYENTHANHTU_028\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+D:\DATA\KiemTra\NGUYENTHANHTU_028\Bai01\obj\Debug\Bai01.exe
+D:\DATA\KiemTra\NGUYENTHANHTU_028\Bai01\obj\Debug\Bai01.pdb

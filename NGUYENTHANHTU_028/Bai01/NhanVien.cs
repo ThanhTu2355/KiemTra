@@ -54,14 +54,24 @@ namespace Cau01
 
         public double TinhLuong()
         {
-
+            double luongngay = 100000;
+            double phantramtangluong = 0;
+            if(bophan == "TrucTiep")
+            {
+                phantramtangluong=0.3;
+            }else if(bophan == "GianTiep")
+            {
+                phantramtangluong = 0.2;
+            }
+            double luong = (songaycong + songaylamthem * (1 + phantramtangluong)) * luongngay;
+            return luong;
         }
         public void InThongTIn()
         {
             Console.WriteLine(" Thong tin sinh vien : ");
             Console.WriteLine(" Ho ten : {0}", HoTen);
             Console.WriteLine(" Bo phan : {0}", BoPhan);
-            Console.WriteLine(" Thu nhap : {0}");
+            Console.WriteLine(" Thu nhap : {0}",TinhLuong());
         }
     }
 }
